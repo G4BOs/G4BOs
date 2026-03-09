@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
+# I'm Gabriel C. a back-end developer
 
-<!--
-**G4BOs/G4BOs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## I'm currently learning:
+-  Frontend skills to be a full stack dev (HTML, CSS, JS)
+-  Git
+-  Python -- deepening knowledge
+-  Linux server management -- CLI only, no shortcuts
 
-Here are some ideas to get you started:
+  ## Languages
+  - Spanish: Native
+  - English: Intermediate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm looking to collaborate on:
+- Web Apps, Realtime sync.
+
+# Programming languajes:
+- Python
+- JavaScript
+
+# Tools & Technologies
+- Flask, Flask-SocketIO
+- Linux
+- Neovim
+
+
