@@ -1,5 +1,5 @@
 # Hi there 👋
-# I'm Gabriel C. a 
+# I'm Gabriel C.
 ## back-end developer
 
   ## I'm currently learning:
@@ -12,16 +12,22 @@
   - Spanish: Native
   - English: Intermediate
 
-## I'm looking to collaborate on:
-- Web Apps, Realtime sync.
-
-# Programming languajes:
+## Programming languajes:
 - Python
 - JavaScript
 
-# Tools & Technologies
+## Tools & Technologies
 - Flask, Flask-SocketIO
 - Linux
-- Neovim
+
+## Last Projects
+ **[Flag Quiz](https://adivina-la-bandera-0wt9.onrender.com)**
+ Multiplayer web game to guess country flags in real time. Built with Flask & SocketIO.
+
+ **[Online Chat](https://chat-online-x1kp.onrender.com)**
+ Simple real-time chat with login system. Flask + SocketIO.
+
+## I'm looking to collaborate on:
+- Web Apps, Realtime sync.
 
 
