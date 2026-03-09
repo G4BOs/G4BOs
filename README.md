@@ -1,6 +1,6 @@
 # Hi there 👋
 # I'm Gabriel C. a 
-##back-end developer
+## back-end developer
 
   ## I'm currently learning:
 -  Frontend skills to be a full stack dev (HTML, CSS, JS)
