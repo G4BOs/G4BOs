@@ -6,6 +6,7 @@
 -  Frontend skills to be a full stack dev (HTML, CSS, JS)
 -  Git
 -  Python -- deepening knowledge
+-  DB: SQLite3
 -  Linux server management -- CLI only, no shortcuts
 
   ## Languages
@@ -19,6 +20,7 @@
 ## Tools & Technologies
 - Flask, Flask-SocketIO
 - Linux
+- SQLite3
 
 ## Last Projects
  **[Flag Quiz](https://adivina-la-bandera-0wt9.onrender.com)**
