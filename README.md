@@ -2,17 +2,23 @@
 **I'm Gabriel C.**  
 **back-end developer**  
 
+## Tools & Technologies
+- Flask
+- FastApi
+- SocketIo
+- Docker
+- Docker compose
+- (CI/CD):Gitea Actions->Docker Hub 
+- Gitea
+- Linux
+- SQLite3
+- Other: Redis, WebSockets, WebPush, YAML
+
+
   ## I'm currently learning:
--  Frontend skills to be a full stack dev (HTML, CSS, JS)
--  Git
--  Docker (CI/DE gitea actions in local server)
--  Python -- deepening knowledge
--  FastApi
--  Redis
--  SQLite3
+-  Frontend (HTML, CSS, JS)
 -  Linux server management
--  PostgreSQL
--  SQLAlchemy
+-  PostgreSQL + SQLAlchemy
 -  Pytest
 -  Shell
 
@@ -24,19 +30,6 @@
 - Python
 - JavaScript
 - Shell
-
-## Tools & Technologies
-- Flask
-- FastApi
-- SocketIo
-- Redis
-- Docker
-- Docker compose
-- Yaml (CI/DE)
-- Gitea
-- Python webpush
-- Linux
-- SQLite3
 
 ## Last Projects
  **[Flag Quiz](https://adivina-la-bandera-0wt9.onrender.com)**  
