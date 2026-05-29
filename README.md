@@ -9,8 +9,12 @@
 -  Python -- deepening knowledge
 -  FastApi
 -  Redis
--  DB: SQLite3
+-  SQLite3
 -  Linux server management
+-  PostgreSQL
+-  SQLAlchemy
+-  Pytest
+-  Shell
 
   ## Languages
   - Spanish: Native
@@ -19,14 +23,18 @@
 ## Programming languajes:
 - Python
 - JavaScript
-- shell
+- Shell
 
 ## Tools & Technologies
 - Flask
 - FastApi
 - SocketIo
 - Redis
+- Docker
 - Docker compose
+- Yaml (CI/DE)
+- Gitea
+- Python webpush
 - Linux
 - SQLite3
 
@@ -43,5 +51,6 @@
 ## I'm looking to collaborate on:
 - Web Apps, Realtime sync.
 
-contact me c: g4bopy@gmail.com
+contact me c:  
+g4bopy@gmail.com
 
