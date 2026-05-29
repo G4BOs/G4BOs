@@ -31,14 +31,14 @@
 - SQLite3
 
 ## Last Projects
- **[Flag Quiz](https://adivina-la-bandera-0wt9.onrender.com)**
-   Multiplayer web game to guess country flags in real time. Built with Flask & SocketIO.
+ **[Flag Quiz](https://adivina-la-bandera-0wt9.onrender.com)**  
+   Multiplayer web game to guess country flags in real time. Built with Flask & SocketIO.  
 
- **[Online Chat](https://chat-online-x1kp.onrender.com)**
-   Simple real-time chat with login system. Flask + SocketIO.
+ **[Online Chat](https://chat-online-x1kp.onrender.com)**  
+   Simple real-time chat with login system. Flask + SocketIO.  
 
-**[Paste App] [docker image]**
-   Real-time clipboard in LAN, file sharing and streaming media.
+**[Paste App] [docker image]**  
+   LAN real-time clipboard, file sharing and streaming media.  
 
 ## I'm looking to collaborate on:
 - Web Apps, Realtime sync.
