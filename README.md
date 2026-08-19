@@ -28,7 +28,7 @@
 
 ## Programming languajes:
 - Python
-- JavaScript
+- JavaScript/TypeScript
 - Shell
 
 ## Last Projects
